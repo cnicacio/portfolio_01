@@ -377,16 +377,16 @@ section#contato div#carregamento{
     justify-content: center;
     flex-wrap: wrap;
     padding: 1rem;
-  }
+}
   
-  section#contato div#carregamento p{
+section#contato div#carregamento p{
     color: #182825;
     font-weight: bold;
     font-size: 1rem;
     width: 100%;
     text-align: center;
     padding: 1rem;
-  }
+}
   
 .lds-facebook {
     display: inline-block;

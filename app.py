@@ -49,7 +49,7 @@ def send():
             )
         mail.send(mensagem)
 
-    return render_template('enviar.html', formContato=formContato)
+    return render_template('enviar.html',formContato=formContato)
 
 if __name__ == '__main__':
    app.run(debug=True)
